@@ -1,4 +1,4 @@
-### Hi there 👋 I'm  Şivan 
+### Hi  👋 I'm  Şivan 
 
 I am a Junior Software Developer and Tester.
 

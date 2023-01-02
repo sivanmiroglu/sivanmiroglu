@@ -1,6 +1,6 @@
 ### Hi  👋 I'm  Şivan 
 
-I am a Junior Software Developer and Tester.
+I am a Junior  Tester.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivanmiroglu&show_icons=true&theme=highcontrast)
 

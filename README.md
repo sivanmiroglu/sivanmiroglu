@@ -5,5 +5,3 @@
 ## I'm a Juinor Tester  🚀 👨‍🎓!
 - I’m at Virgosol software company I am working.
 - I keep learning on the software way 😂
-- ı am usinged  software languages and programming :
-- C# Java Asp.Net .Net Core Microsoft Sql Html Css and Javascript

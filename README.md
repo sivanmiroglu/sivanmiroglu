@@ -6,5 +6,4 @@
 - I’m at Virgosol software company I am working.
 - I keep learning on the software way 😂
 - some programming languages i use :
-- C# , JAVA , JAVASCRİPT HTML  CSS and 
-- of course .NET , .NET CORE , MVC , SQL 
+

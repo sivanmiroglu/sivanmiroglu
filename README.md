@@ -15,7 +15,7 @@
 
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) 
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"  height="40" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"  height="40" width="40"> <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" height="40" width="40">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanmiroglu)](https://github.com/sivvanmiroglu/github-readme-stats)
 

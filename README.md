@@ -8,7 +8,7 @@
 
 <h3 align="left">The library and tools I use:</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="44" height="44"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="44" height="44"/><img src="https://brandslogos.com/wp-content/uploads/images/large/html5-logo.png" height="40" width="40"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo.png"  height="40" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="44" height="44"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="44" height="44"/><img src="https://brandslogos.com/wp-content/uploads/images/large/html5-logo.png" height="40" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 
 
 

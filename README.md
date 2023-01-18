@@ -18,6 +18,8 @@
 
 <a href="https://www.jetbrains.com/idea/"><img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" align="left" height="48" width="48"></a> 
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanmiroglu)](https://github.com/sivvanmiroglu/github-readme-stats)
 
 
